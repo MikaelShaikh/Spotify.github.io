@@ -17,12 +17,8 @@ body {
 .navbar .logo {
   text-decoration: none;
   font-weight: bold;
-  color: black;
+  color: white;
   font-size: 1.2em;
-}
-
-.navbar .logo span {
-  color: var(--primary-color);
 }
 
 .navbar nav {
