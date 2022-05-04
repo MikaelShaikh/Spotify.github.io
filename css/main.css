@@ -15,7 +15,7 @@ body {
 }
 
 .navbar .logo {
-  text-spacing: 0.1em;
+  letter-spacing: 0.1em;
   text-decoration: none;
   font-weight: bold;
   color: white;
